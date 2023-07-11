@@ -1,0 +1,1 @@
+{"version":3,"file":"unknow.js","sourceRoot":"","sources":["../../src/advanced-types/unknow.ts"],"names":[],"mappings":";AACA,SAAS,GAAG,CAAC,QAAa;IACxB,QAAQ,CAAC,IAAI,EAAE,CAAC;AAClB,CAAC;AAGD,SAAS,IAAI,CAAC,QAAiB;IAC7B,IAAI,OAAO,QAAQ,KAAK,QAAQ,EAAE;QAChC,QAAQ,CAAC,WAAW,EAAE,CAAC;QACvB,OAAO,CAAC,GAAG,CAAC,OAAO,CAAC,CAAC;KACtB;AACH,CAAC"}
