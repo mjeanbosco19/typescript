@@ -1,0 +1,1 @@
+{"version":3,"file":"genericInterfaces.js","sourceRoot":"","sources":["../../src/generics/genericInterfaces.ts"],"names":[],"mappings":";;AAQA,SAAS,KAAK,CAAI,IAAY;IAC5B,OAAO,EAAE,IAAI,EAAE,IAAI,EAAE,KAAK,EAAE,IAAI,EAAE,CAAC;AACrC,CAAC;AASD,IAAI,MAAM,GAAG,KAAK,CAAO,KAAK,CAAC,CAAC;AAChC,MAAA,MAAM,CAAC,IAAI,0CAAE,QAAQ,CAAC;AACtB,OAAO,CAAC,GAAG,CAAC,MAAM,CAAC,CAAC"}
